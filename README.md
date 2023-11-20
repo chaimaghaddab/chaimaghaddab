@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my master's thesis. My topic is to improve 3d lidar perception under bad weather conditions for autonomous deriving cars.
+- - 🔭 I’m currently working on a voluntary project to build a robust anamnesis analysis tool using Deep learning and NLP to help doctors and patients improve first consultations.
 <!--
 **chaimaghaddab/chaimaghaddab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
